@@ -263,7 +263,7 @@ interface WhyProps {
 export default function Why({
     image = "/saaa.jpeg",
     card1Image = "/yo/left.png",
-    card2Image = "/yo/side.png",
+    card2Image = "/yo/saam.png",
     card3Image = "/yo/ram.png",
 }: WhyProps) {
     return (
