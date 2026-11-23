@@ -141,11 +141,7 @@ export default function Products() {
     return (
         <main className="bg-white font-sans text-neutral-900 antialiased selection:bg-orange-500 selection:text-white">
             {/* ───────── HERO FULL-BLEED BANNER HEADER (Whole header is background image with original height) ───────── */}
-<<<<<<< HEAD
-            <header className="relative w-full min-h-[300px] sm:min-h-[360px] lg:min-h-[400px] overflow-hidden flex items-center border-b border-neutral-100">
-=======
             <header className="relative w-full min-h-[380px] sm:min-h-[440px] lg:min-h-[480px] pt-24 sm:pt-28 lg:pt-32 pb-12 sm:pb-16 overflow-hidden flex items-center border-b border-neutral-100">
->>>>>>> 88fb1fb (done)
                 {/* Background image covering entire header */}
                 <div className="absolute inset-0 z-0">
                     <img
